@@ -1,0 +1,3 @@
+rootProject.name = 'apple_tv_example'
+
+include ':app'
