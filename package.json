@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "15.3.2",
-    "react-native": "^0.35.0"
+    "react-native": "git://github.com/facebook/react-native.git#v0.36.0-rc.0"
   },
   "jest": {
     "preset": "jest-react-native"
